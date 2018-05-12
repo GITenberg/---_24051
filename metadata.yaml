@@ -1,0 +1,31 @@
+_repo: '---_24051'
+_version: 0.1.0
+alternative_title: Li Wa Zhuan
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bai, Xingjian
+    alias: 白行簡
+    birthdate: 776
+    deathdate: 826
+    gutenberg_agent_id: '26200'
+    url: http://www.gutenberg.org/2009/agents/26200
+    wikipedia: http://zh.wikipedia.org/wiki/%E7%99%BD%E8%A1%8C%E7%B0%A1
+description: ''
+gutenberg_issued: '2007-12-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24051'
+language: zh
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chinese fiction -- Tang dynasty, 618-907'
+- !lcsh 'Li, Shishi -- Fiction'
+- !lcc 'PL'
+- !lcsh 'Women -- China -- Literary collections'
+title: 李娃傳
+url: http://www.gutenberg.org/ebooks/24051
